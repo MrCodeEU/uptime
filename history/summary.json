@@ -4,19 +4,19 @@
     "url": "https://mljr.dev",
     "icon": "https://icons.duckduckgo.com/ip3/mljr.dev.ico",
     "slug": "main-unraid",
-    "status": "down",
-    "uptime": "99.80%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
-    "time": 555,
-    "timeDay": 555,
-    "timeWeek": 555,
-    "timeMonth": 555,
-    "timeYear": 555,
+    "status": "up",
+    "uptime": "93.77%",
+    "uptimeDay": "93.77%",
+    "uptimeWeek": "93.77%",
+    "uptimeMonth": "93.77%",
+    "uptimeYear": "93.77%",
+    "time": 623,
+    "timeDay": 623,
+    "timeWeek": 623,
+    "timeMonth": 623,
+    "timeYear": 623,
     "dailyMinutesDown": {
-      "2023-10-04": 0
+      "2023-10-04": 6
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://casa.mljr.dev",
     "icon": "https://icons.duckduckgo.com/ip3/casa.mljr.dev.ico",
     "slug": "secondary-casa-os-nuc",
-    "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
-    "time": 607,
-    "timeDay": 607,
-    "timeWeek": 607,
-    "timeMonth": 607,
-    "timeYear": 607,
+    "status": "up",
+    "uptime": "93.75%",
+    "uptimeDay": "93.75%",
+    "uptimeWeek": "93.75%",
+    "uptimeMonth": "93.75%",
+    "uptimeYear": "93.75%",
+    "time": 671,
+    "timeDay": 671,
+    "timeWeek": 671,
+    "timeMonth": 671,
+    "timeYear": 671,
     "dailyMinutesDown": {
-      "2023-10-04": 0
+      "2023-10-04": 6
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://assistant.mljr.dev",
     "icon": "https://icons.duckduckgo.com/ip3/assistant.mljr.dev.ico",
     "slug": "home-assistant",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 624,
-    "timeDay": 624,
-    "timeWeek": 624,
-    "timeMonth": 624,
-    "timeYear": 624,
+    "status": "up",
+    "uptime": "93.77%",
+    "uptimeDay": "93.77%",
+    "uptimeWeek": "93.77%",
+    "uptimeMonth": "93.77%",
+    "uptimeYear": "93.77%",
+    "time": 601,
+    "timeDay": 601,
+    "timeWeek": 601,
+    "timeMonth": 601,
+    "timeYear": 601,
     "dailyMinutesDown": {
-      "2023-10-04": 0
+      "2023-10-04": 6
     }
   }
 ]
