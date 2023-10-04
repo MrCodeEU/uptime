@@ -4,53 +4,59 @@
     "url": "https://mljr.dev",
     "icon": "https://icons.duckduckgo.com/ip3/mljr.dev.ico",
     "slug": "main-unraid",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.80%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
     "time": 555,
     "timeDay": 555,
     "timeWeek": 555,
     "timeMonth": 555,
     "timeYear": 555,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-04": 0
+    }
   },
   {
     "name": "Secondary (CasaOS nuc)",
     "url": "https://casa.mljr.dev",
     "icon": "https://icons.duckduckgo.com/ip3/casa.mljr.dev.ico",
     "slug": "secondary-casa-os-nuc",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.86%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 607,
     "timeDay": 607,
     "timeWeek": 607,
     "timeMonth": 607,
     "timeYear": 607,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-04": 0
+    }
   },
   {
     "name": "Home Assistant",
     "url": "https://assistant.mljr.dev",
     "icon": "https://icons.duckduckgo.com/ip3/assistant.mljr.dev.ico",
     "slug": "home-assistant",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 624,
     "timeDay": 624,
     "timeWeek": 624,
     "timeMonth": 624,
     "timeYear": 624,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-04": 0
+    }
   }
 ]
