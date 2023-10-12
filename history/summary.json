@@ -4,18 +4,19 @@
     "url": "https://mljr.dev",
     "icon": "https://icons.duckduckgo.com/ip3/mljr.dev.ico",
     "slug": "main-unraid",
-    "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 604,
     "timeDay": 463,
     "timeWeek": 619,
     "timeMonth": 604,
     "timeYear": 604,
     "dailyMinutesDown": {
+      "2023-10-12": 1,
       "2023-10-04": 6
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://casa.mljr.dev",
     "icon": "https://icons.duckduckgo.com/ip3/casa.mljr.dev.ico",
     "slug": "secondary-casa-os-nuc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
     "time": 671,
@@ -36,6 +37,7 @@
     "timeMonth": 671,
     "timeYear": 671,
     "dailyMinutesDown": {
+      "2023-10-12": 1,
       "2023-10-04": 6
     }
   },
@@ -44,7 +46,7 @@
     "url": "https://assistant.mljr.dev",
     "icon": "https://icons.duckduckgo.com/ip3/assistant.mljr.dev.ico",
     "slug": "home-assistant",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -56,6 +58,7 @@
     "timeMonth": 614,
     "timeYear": 614,
     "dailyMinutesDown": {
+      "2023-10-12": 0,
       "2023-10-04": 6
     }
   }
