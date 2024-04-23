@@ -31,7 +31,7 @@
     "url": "https://box.mljr.eu",
     "icon": "https://icons.duckduckgo.com/ip3/box.mljr.eu.ico",
     "slug": "mail-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -43,6 +43,7 @@
     "timeMonth": 498,
     "timeYear": 534,
     "dailyMinutesDown": {
+      "2024-04-23": 0,
       "2024-02-25": 162,
       "2024-02-04": 125
     }
@@ -53,11 +54,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/home.mljr.eu.ico",
     "slug": "home-assistant",
     "status": "up",
-    "uptime": "63.63%",
+    "uptime": "63.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "63.63%",
+    "uptimeYear": "63.79%",
     "time": 589,
     "timeDay": 635,
     "timeWeek": 535,
